@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rockstaropar
 - 👀 I’m interested in codes and stuffs
+- learning cp in c++
 - 🌱 I’m currently learning python(know basics oh java ,c,c++, bash Scripting,python,html,css,js)
 - 💞️ I’m looking to collaborate on big ideas
 - 📫 How to reach me find your way
